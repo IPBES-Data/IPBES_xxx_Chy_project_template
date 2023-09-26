@@ -1,3 +1,12 @@
+This repository is part of an ongoing IPBES project.
+
+The authors do not take any responsibility for it's copntent or the correct working of the code. If scripts in here wipe your data, you are on your own.
+
+Nevertheless, please feel free to browse the code and re-use it at your own risk. Once finalised, the final repo will be published on Zenodo 
+- LICENSE?
+
+
+
 The info in `% %` need to be changed to the appropriate values. In addition, the empty fields need to be filled in.
 
 # %PROJECT_NAME%
