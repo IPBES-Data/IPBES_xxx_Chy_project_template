@@ -1,0 +1,16 @@
+---
+title: 'Report Assessment Ch99 Literature randomisation'
+author: Rainer M Krug [Rainer.Krug@Senckenberg.de](mailto:Rainer.Krug@Senckenberg.de)
+format:
+    html:
+        toc: true
+        embed-resources: true
+        code-fold: true
+        code-summary: 'Show the code'
+        number-sections: true
+params:
+  some_info: 13
+---
+
+# Introduction
+This is an example report to illustrate how these can be linked in the `Readme.md`.
