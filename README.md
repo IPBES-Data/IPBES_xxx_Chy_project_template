@@ -3,7 +3,6 @@ Badges:
 DOI | Repo status 
 
 [![DOI](https://zenodo.org/badge/DOI/99.9999/zenodo.9999999.svg)](https://doi.org/99.9999/zenodo.9999999)
-
 [![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
 
 
