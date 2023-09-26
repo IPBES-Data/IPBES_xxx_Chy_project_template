@@ -2,6 +2,7 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 
+# %PROJECT_NAME%
 
 This repository is part of an ongoing IPBES project.
 
@@ -16,7 +17,6 @@ Once finalised, the final repo will be published on Zenodo
 
 The info in `% %` need to be changed to the appropriate values. In addition, the empty fields need to be filled in.
 
-# %PROJECT_NAME%
 
 ## Metadata
 
