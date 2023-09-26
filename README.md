@@ -1,6 +1,6 @@
 Badges:
 
-DOI | 
+DOI | Repo status 
 
 This repository is part of an ongoing IPBES project.
 
