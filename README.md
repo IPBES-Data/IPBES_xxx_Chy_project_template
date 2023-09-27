@@ -41,6 +41,12 @@ The info in `% %` need to be changed to the appropriate values. In addition, the
 - **Github Repo**: [IPBES_xxx_Chy_project_template](https://github.com/rkrug/IPBES_xxx_Chy_project_template) REPLACE WITH CORRECT LINK
 - **Googl Drive Folder**: [%GOOGLE_DRIVE_FOLDER%](%GOOGLE_DRIVE_FOLDER%)
 
+## Folders
+
+- **`data`**: data files created during the running of the code file and contains cached as well as final data files.
+- **`figures`**: figures created during the running of the code` file in low-res as well as high-res.
+- **`R`**: R scripts used to run the code in the repo. Files in this folder will be sourced initially.
+
 ## Project Description
 
 - aim
