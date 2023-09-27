@@ -38,7 +38,7 @@ The info in `% %` need to be changed to the appropriate values. In addition, the
   - %EMAIL_CC%
   - ...
 
-- **Github Repo**: [%GITHUB_REPO%](%GITHUB_REPO%)
+- **Github Repo**: [IPBES_xxx_Chy_project_template](https://github.com/rkrug/IPBES_xxx_Chy_project_template) REPLACE WITH CORRECT LINK
 - **Googl Drive Folder**: [%GOOGLE_DRIVE_FOLDER%](%GOOGLE_DRIVE_FOLDER%)
 
 ## Project Description
