@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/99.9999/zenodo.9999999.svg)](https://doi.org/99.9999/zenodo.9999999)
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # %PROJECT_NAME%
 
@@ -25,14 +25,23 @@ The info in `% %` need to be changed to the appropriate values. In addition, the
 - **Chapter**: %CHAPTER%
 - **Short Name**: %SHORT_NAME%
 
-- **Status**: %STATUS% (e.g. in planning, in progress, completed, canceled, waiting for response etc.)
+- **Requested by**:
+- **Requested in/during**:
 
-- **Assigned To**: %ASSIGNED_TO% (tsu data)
+- **Context**:
+- **Relevant chapters**:
+- **Task(s)**:
+- **Contact point from the expert team**: %ASSIGNED_TO% (tsu data)
+- **Contact point from BBA tsu**:
+- **Contact point from data tsu**:
+- **Timeline and deadline**:
+- **Latest status**: %STATUS% (e.g. in planning, in progress, completed, canceled, waiting for response etc.)
 
 - **email to**:
   - %EMAIL_TO%
   - %EMAIL_TO%
   - ...
+
 - **email cc**:
   - %EMAIL_CC%
   - %EMAIL_CC%
