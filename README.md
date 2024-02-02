@@ -31,8 +31,8 @@ The info in `% %` need to be changed to the appropriate values. In addition, the
 - **Context**:
 - **Relevant chapters**:
 - **Task(s)**:
-- **Contact point from the expert team**: %ASSIGNED_TO% (tsu data)
-- **Contact point from BBA tsu**:
+- **Contact point from the expert team**:
+- **Contact point from assessment tsu**:
 - **Contact point from data tsu**:
 - **Timeline and deadline**:
 - **Latest status**: %STATUS% (e.g. in planning, in progress, completed, canceled, waiting for response etc.)
@@ -47,13 +47,13 @@ The info in `% %` need to be changed to the appropriate values. In addition, the
   - %EMAIL_CC%
   - ...
 
-- **Github Repo**: [IPBES_xxx_Chy_project_template](https://github.com/rkrug/IPBES_xxx_Chy_project_template) REPLACE WITH CORRECT LINK
-- **Googl Drive Folder**: [%GOOGLE_DRIVE_FOLDER%](%GOOGLE_DRIVE_FOLDER%)
+- **Github Repo**: [IPBES_xxx_Chy_project_template](https://github.com/rkrug/IPBES_xxx_Chy_project_template) 
+- **Googl Drive Folder**: [%GOOGLE_DRIVE_FOLDER%](%GOOGLE_DRIVE_FOLDER%) 
 
 ## Folders
 
 - **`data`**: data files created during the running of the code file and contains cached as well as final data files.
-- **`figures`**: figures created during the running of the code` file in low-res as well as high-res.
+- **`outputs`**: figures or other outputs created during the running of the code` file in low-res as well as high-res.
 - **`R`**: R scripts used to run the code in the repo. Files in this folder will be sourced initially.
 
 ## Project Description
